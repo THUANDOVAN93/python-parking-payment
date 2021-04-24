@@ -31,7 +31,7 @@
         ``` 
         
 - The price of parking regulation is displayed in the bellow table:
-![Parking Price](images/parking-price.jpg)
+![Parking Price](https://github.com/THUANDOVAN93/python-parking-payment/blob/2b8f76a3cc434c26cc9c16f073ca7a81deac5800/image.png)
 - The discount of `50%` is available from `17:00 - Midnight`, `10%` for `other arrival time`.
 - Any car parked exceed `max stay hours` will pay `double price` for each exceed hour it parked. 
 
